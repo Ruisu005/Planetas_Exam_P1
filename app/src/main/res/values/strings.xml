@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Planetas</string>
+
+    <string-array name="planet_options">
+        <item>Clima</item>
+        <item>Geografía</item>
+        <item>Flora</item>
+        <item>Fauna</item>
+    </string-array>
+</resources>
